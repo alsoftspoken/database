@@ -1,0 +1,25 @@
+module.exports = {
+  BOT_TOKEN: "7574227609:AAEdUhhw0Zc14H-ofWaQFK-HIu-8WGmfCIY", // MASUKIN TOKEN BOT TELEGRAM KAMU
+  OWNER_ID: ["695284666"], // MASUKIN ID AKUN TELEGRAM KAMU
+};
+
+/*/  🔎  Project Information 
+ *  ─────────────────────────────────────────
+ *  ✈️ Telegram Developer: t.me/Pisuwinn2
+ *  📞 Official Channel : t.me/pisuwinakunke2
+ 
+  *  🔮 Thanks Too 
+  - ocong ( Support )
+  - thomz ( Support )
+  - Litta ( Support )
+ - andri galon ( Support )
+ 
+ *  ©Copyright by Pisuwin
+ 
+ *  Notes:
+ *  - Jangan menghapus credit ini sebagai bentuk penghargaan terhadap pembuat asli.
+ *  - Credit ini wajib dicantumkan dalam setiap pengembangan atau distribusi ulang.
+ *  - Silakan modifikasi fitur dan logika bot, namun tetap hormati hak cipta pembuat.
+
+ *  Terima kasih telah menggunakan base bot ini!
+ /*/
