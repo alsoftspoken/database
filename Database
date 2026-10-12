@@ -1,4 +1,0 @@
-module.exports = {
-  BOT_TOKEN: "7461313839:AAGmBvEzirMUKTEipGK0xilP84PFkp1qjrM",// ini isi bot token lu kontol
-  OWNER_ID: ["8048493501"],// isi dengan id mu
-};
